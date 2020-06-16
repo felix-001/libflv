@@ -1,2 +1,2 @@
 # libflv
-muxer h264 &amp; aac to flv
+h264和aac封装为flv
