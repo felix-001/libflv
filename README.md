@@ -1,5 +1,5 @@
-# feature
-h264和aac封装为flv
+# Feature
+H264和AAC封装为flv
 
 # How to use
 - 创建实例
