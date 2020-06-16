@@ -39,3 +39,6 @@ int FLVFlush( FLVContext *ctx );
 ```
 int FLVDestroyContext( FLVContext *ctx );
 ```
+
+# 关于作者
+treeswayinwind@gmail.com
